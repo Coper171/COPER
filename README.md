@@ -1,4 +1,4 @@
 # COPER
-Empezando el GitHub
-Soy Coper y me gusta programar.
+Starting GIT.
+I'm Coper and I like programming.
 
